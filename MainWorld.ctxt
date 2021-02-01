@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MainWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MainWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MainWorld()
+comment2.params=
+comment2.target=void\ prepareTiles()
+comment3.params=
+comment3.target=void\ prepareRoad()
+comment4.params=
+comment4.target=void\ prepareFence()
+comment5.params=
+comment5.target=void\ prepareTrees()
+comment6.params=
+comment6.target=void\ prepareLake()
+numComments=7
